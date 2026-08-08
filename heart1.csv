@@ -1,0 +1,5 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,oil_intake,junk_food_freq,sweets_consumption,physical_activity,stress_level,sleep_hours,yoga,meditation,ayurveda_usage,region,urban_rural,diabetes,family_history,tobacco_use,alcohol,target
+45,1,0,130,230,0,1,150,0,1.2,1,0,2,2,3,2,1,2,7,1,1,0,1,1,1,1,0,1,1
+54,0,1,140,250,1,0,140,1,2.3,2,1,3,1,2,3,0,2,6,0,0,1,2,0,1,1,1,0,1
+38,1,2,120,180,0,1,170,0,0.5,1,0,2,0,1,1,2,1,8,1,1,1,0,1,0,0,0,0,0
+60,1,3,150,300,1,2,130,1,3.5,2,2,3,2,4,4,0,3,5,0,0,0,3,0,1,1,1,1,1
